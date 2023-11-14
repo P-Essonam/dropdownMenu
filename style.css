@@ -36,6 +36,8 @@ html {
     box-shadow: 2px 2px 2px black;
     display: none;
     position: absolute;
+    width: calc(100vh - 10rem);
+    right: 0;
 }
 
 .dropdown a:hover {
